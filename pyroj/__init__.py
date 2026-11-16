@@ -25,7 +25,7 @@ from pyroj.locales import (
 )
 
 __title__ = "pyroj"
-__url__ = "https://github.com/0xdolan/pyroj"
+__url__ = "https://github.com/kanilabs/pyroj"
 __version__ = "1.3.1"
 __build__ = __version__
 __author__ = "Dolan Hêriş"
