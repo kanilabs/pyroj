@@ -37,7 +37,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/0xdolan/pyroj"
+Homepage = "https://github.com/kanilabs/pyroj"
 
 [tool.setuptools.packages.find]
 where = ["."]
